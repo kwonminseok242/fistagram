@@ -1,7 +1,7 @@
 
 ## 기본 파일 구조
 
-'''text
+```text
 /instagram-clone
 ├── /android                        # Android 프로젝트 관련 파일들
 ├── /ios                            # iOS 프로젝트 관련 파일들
