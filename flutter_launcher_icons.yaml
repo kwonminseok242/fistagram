@@ -1,14 +1,14 @@
 flutter_launcher_icons:
-  image_path: "assets/icons/Fistagram_icon.png"
+  image_path: "assets/icons/fistagram_small.png"
 
   android: true
   min_sdk_android: 21
 
   android_adaptive_icon: true
   adaptive_icon_background: "#000000"
-  adaptive_icon_foreground: "assets/icons/Fistagram_icon.png"
+  adaptive_icon_foreground: "assets/icons/fistagram_small.png"
   adaptive_icon_foreground_inset: 0
 
   ios: true
-  image_path_ios: "assets/icons/Fistagram_icon.png"
+  image_path_ios: "assets/icons/fistagram_small.png"
   remove_alpha_ios: false
